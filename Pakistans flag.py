@@ -106,3 +106,7 @@ hideturtle()
 write('Tawheed', font=("Ani", 30, 'bold'))
 
 mainloop()
+
+
+
+
